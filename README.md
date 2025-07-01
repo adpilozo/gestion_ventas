@@ -32,7 +32,7 @@ El **Sistema de Gestión de Ventas** es una aplicación web desarrollada para au
 | Exportación PDF  | iText o JasperReports            |
 | Build Tool       | Maven                            |
 | Control de versión | Git + GitHub                   |
-| Entorno de despliegue | Manual o Docker (opcional)  |
+| Entorno de despliegue | Manual                      |
 
 ---
 
