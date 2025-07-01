@@ -1,0 +1,11 @@
+com/dark/productoservice/security/SecurityConfig.class
+com/dark/productoservice/controller/ProductController.class
+com/dark/productoservice/model/ProductChange.class
+com/dark/productoservice/dto/ProductDTO.class
+com/dark/productoservice/ProductoServiceApplication.class
+com/dark/productoservice/repository/ProductChangeRepository.class
+com/dark/productoservice/security/JwtAuthFilter.class
+com/dark/productoservice/model/Product.class
+com/dark/productoservice/security/JwtUtil.class
+com/dark/productoservice/service/ProductService.class
+com/dark/productoservice/repository/ProductRepository.class

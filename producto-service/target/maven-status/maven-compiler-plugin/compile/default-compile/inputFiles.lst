@@ -1,0 +1,11 @@
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/ProductoServiceApplication.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/controller/ProductController.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/dto/ProductDTO.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/model/Product.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/model/ProductChange.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/repository/ProductChangeRepository.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/repository/ProductRepository.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/security/JwtAuthFilter.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/security/JwtUtil.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/security/SecurityConfig.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/producto-service/src/main/java/com/dark/productoservice/service/ProductService.java
