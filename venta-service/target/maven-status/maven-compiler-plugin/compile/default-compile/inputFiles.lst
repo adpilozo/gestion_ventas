@@ -1,0 +1,13 @@
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/VentaServiceApplication.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/controller/SaleController.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/controller/SaleRequest.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/model/Invoice.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/model/Sale.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/model/SaleItem.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/repository/InvoiceRepository.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/repository/SaleItemRepository.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/repository/SaleRepository.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/security/JwtAuthFilter.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/security/JwtUtil.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/security/SecurityConfig.java
+/Users/dark/Desktop/PROYECTOS-DARK/Sales-System/venta-service/src/main/java/com/dark/ventaservice/service/SaleService.java
