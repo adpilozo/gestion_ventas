@@ -1,0 +1,13 @@
+com\dark\usuarioservice\service\UserService.class
+com\dark\usuarioservice\controller\TestController.class
+com\dark\usuarioservice\dto\LoginResponse.class
+com\dark\usuarioservice\model\User.class
+com\dark\usuarioservice\security\JwtUtil.class
+com\dark\usuarioservice\controller\AuthController.class
+com\dark\usuarioservice\dto\UserDTO.class
+com\dark\usuarioservice\config\CorsConfig.class
+com\dark\usuarioservice\dto\LoginRequest.class
+com\dark\usuarioservice\security\JwtAuthFilter.class
+com\dark\usuarioservice\repository\UserRepository.class
+com\dark\usuarioservice\UsuarioServiceApplication.class
+com\dark\usuarioservice\security\SecurityConfig.class

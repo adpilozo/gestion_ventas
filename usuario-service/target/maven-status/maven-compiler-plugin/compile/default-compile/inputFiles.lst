@@ -1,0 +1,13 @@
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\UsuarioServiceApplication.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\config\CorsConfig.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\security\JwtAuthFilter.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\dto\LoginRequest.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\security\SecurityConfig.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\dto\UserDTO.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\controller\TestController.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\service\UserService.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\dto\LoginResponse.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\security\JwtUtil.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\repository\UserRepository.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\controller\AuthController.java
+C:\Users\andyp\OneDrive\Documentos\ESPE\8vo\Construcion y Evolucion\Sales-System\usuario-service\src\main\java\com\dark\usuarioservice\model\User.java
